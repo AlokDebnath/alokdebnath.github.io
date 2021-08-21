@@ -13,7 +13,8 @@ order: 3
         <td> Bhattacharya, Arghya, and <b>Alok Debnath</b> and Manish Shrivastava. "Enhancing Aspect Extraction in Hindi". In the Proceedings of The 4th Workshop on e-Commerce and NLP (ECNLP 4), p 140. 2021 </td>
     </tr>
     <tr>
-        <td> <b>Debnath, Alok</b> and Michael Roth. "A Computational Analysis of Vagueness in Instructional Texts". In the Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop, p. 35. 2021. </td>/tr>
+        <td> <b>Debnath, Alok</b> and Michael Roth. "A Computational Analysis of Vagueness in Instructional Texts". In the Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop, p. 35. 2021. <i>(Winner of Best Student Paper @ EACL 2021)</i></td>
+    </tr>
     <tr>
       <th align="center">2020</th>
     </tr>

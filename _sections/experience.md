@@ -5,11 +5,18 @@ order: 4
 ---
 <table border="0">
   <tr>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td> (Currently) NLP/ML Engineer at Factmata </td>
+  </tr>
+  
+  <tr>
   <th align="center">2020</th>
   </tr>
 
   <tr>
-  <td>(Currently) Research Assistant for Language Technologies Research
+  <td>Research Assistant for Language Technologies Research
   Center at International Institute of Information Technology, Hyderabad, under
   the supervision of Dr. Manish Shrivastava.</td>
   </tr>

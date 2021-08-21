@@ -7,7 +7,7 @@ order: 4
 
 <table border="0">
     <tr>
-        <th> Comparison of Multimodal Language Models </th>
+        <th> Comparison of Multimodal Language Models (2021-)</th>
     </tr>
     <tr>
         <td>Multimodality improves the modeling of language, as cognitively 

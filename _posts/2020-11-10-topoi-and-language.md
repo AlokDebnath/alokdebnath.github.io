@@ -39,7 +39,7 @@ represent this arbitrary phenomena of language while maintaining function as a w
 fairly unique property of language is the structural behavior of comparative and superlative units, 
 and the constructions they occur with.
 
-One such "linguistically inspired" question that I and a good friend, [@bollu](bollu.github.io)
+One such "linguistically inspired" question that I and a good friend, [@bollu](https://bollu.github.io)
 have been desperately looking into: "What is this list of arbitrary yet encodable properties
 of natural language? If such a list exists, is there a place to express them, and embed the
 meaningful units associated with them?" @bollu introduced to Topoi as a "space to do math",

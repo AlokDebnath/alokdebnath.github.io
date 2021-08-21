@@ -104,7 +104,6 @@ order: 4
           into the general public sentiment to a much more
           fine-grained degree than sentiment analysis. Stance
           detection is therefore a vital moderation signal.</td>
-        
       <td>Aspect based sentiment analysis refers to the extraction of
       sentiment information from aspects pertinent to the topic of a
       given tweet, post or review. There has been very little work on

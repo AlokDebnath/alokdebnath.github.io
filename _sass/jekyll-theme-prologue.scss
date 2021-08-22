@@ -62,7 +62,7 @@
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #5a5a5a;
@@ -75,7 +75,7 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #5a5a5a;
@@ -97,12 +97,12 @@
 	}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.8em;
 		letter-spacing: -1px;
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.3em;
 	}
 
 	header {
@@ -118,7 +118,7 @@
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 500;
 		color: #111;
 	}
 
@@ -192,7 +192,7 @@
 
 	dl {
 		dt {
-			font-weight: 300;
+			font-weight: 500;
 			color: #666;
 		}
 		dd {
@@ -404,7 +404,7 @@
 		}
 
 		th {
-			text-align: left;
+			text-align: center;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
 			background: #222729 url('images/overlay.png');
@@ -460,7 +460,7 @@
 			background: #fff;
 			margin: 0;
 			padding: 1em;
-			font-size: 0.8em;
+			font-size: 0.6em;
 
 			h3 {
 				font-size: 1em;
@@ -513,7 +513,7 @@
 		}
 
 		.icons {
-			font-size: 0.8em;
+			font-size: 0.6em;
 			text-align: center;
 
 			a {
@@ -530,7 +530,7 @@
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+		min-height: 44px;
 		cursor: default;
 
 		a {
@@ -566,7 +566,7 @@
 			list-style: none;
 			margin-bottom: 0;
 			hr {
-				margin: auto 1.5em;
+				margin: auto 2.5em;
 			}
 
 			li {
@@ -641,7 +641,7 @@
 /* Main */
 
 	#main {
-		margin-left: 375px;
+		margin-left: 400px;
 		> section {
 			text-align: center;
 		}
@@ -723,7 +723,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 15pt;
 			}
 
 		/* Header */

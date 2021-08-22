@@ -48,11 +48,12 @@ twitter_url: https://twitter.com/ginanthrope
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/alok-debnath-a35b8b143
 github_url: https://github.com/AlokDebnath
 pinterest_url:
 slack_url:
 dribbble_url:
+cv: assets/Debnath_CV.pdf
 
 # Google Analytics Tracking ID goes here:
 google_analytics:

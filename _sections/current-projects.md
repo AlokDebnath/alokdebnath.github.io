@@ -1,6 +1,6 @@
 ---
-title: Past Research Projects
-icon: fa-check
+title: Past and Current Research Projects
+icon: fa-bookmark
 order: 4
 ---
 ### Multimodal Language Modeling

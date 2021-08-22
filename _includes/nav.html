@@ -40,7 +40,7 @@
       {%- for _sect in _sections -%}
         {%- assign _title = _sect.title | default: _sect.layout | default: 'Untitled' -%}
         {%- assign _slug = _title | slugify -%}
-        {%- assign _icon = _sect.icon | default: 'fa-file' -%}
+        {%- assign _icon = _sect.icon  -%}
         {%- if _sect.icon-style == 'regular' -%}
           {%- assign _class = 'icon-r' -%}
         {%- elsif _sect.icon-style == 'brands' -%}

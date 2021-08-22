@@ -1,5 +1,5 @@
 ---
-title: Topoi and Language Represetation
+title: Topoi and Language Representation
 layout: post
 ---
 

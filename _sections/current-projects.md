@@ -1,5 +1,5 @@
 ---
-title: Past and Current Research Projects
+title: Research Projects
 icon: fa-bookmark
 order: 4
 ---

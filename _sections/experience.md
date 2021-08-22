@@ -1,6 +1,6 @@
 ---
 title: Professional and Academic Experience
-icon: fa-page
+icon: fa-file
 order: 4
 ---
 <table border="0">

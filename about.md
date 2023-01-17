@@ -26,49 +26,92 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## Introduction and Bio
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+I am a PhD researcher at the School of Computer Science at Trinity College
+Dublin, affiliated with the ADAPT Research Centre. My guide is [Prof. Owen
+Conlan](https://www.scss.tcd.ie/Owen.Conlan/).
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+I work on the intersection of natural language processing, computational
+empathy, human computer interaction, and machine learning. My current research
+goals are to develop a framework to understand and evaluate empathy within
+small-talk dialogue.
 
-## Features
+I want to continue to do research in the intersection of language, computation,
+behaviour, and society, in the hopes of contributing to a seamlessly integrated
+and ethically consistent digital society. A society where we can trust the
+intelligence we create to study abstractions such as "the mind" and
+"consciousness" in a way that we can not yet access.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+## Current Projects
 
-## Skins
+I am currenly involved in the following projects:
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+- Empathy in Dialogue Systems
+- Context Representation in User Modeling
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+### Empathy in Dialogue Systems
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+Empathy is a complex idea in cognitive and behavioural psychology, which has
+been notoriously hard to define for humans. However, if we assume that emotion
+is a latent characterisitc of conversation (which is quite a big "if" to begin
+with), we can then identify conversations which display a certain emotion and
+attempt to replicate what happens when humans encounter said emotion in
+conversation; or at least that is a summary of the state-of-the-art; ergo the
+number of "empathetic chatbots" in research.
 
-### Highlight Theme
+The goal of my research is to create a system wherein I can evaluate the
+empathy displayed by these agents, and identify whether they, in fact,
+communicate empathetically the way humans do, and if not, build a framework to
+understand what components are missing. The broader goal of this study is to
+identify if and how large language models tune their responses to latent
+characteristics in text (because empathy is not just emotion, it is an attuned
+response to identifying and contextualizing emotion).
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+Why? Well, first, to study the process of digitalization of the human experience
+in the form of both language as a means of communication and empathy as a
+sociopsychological phenomena as it represents itself in interactions, and
+second, because it provides insights into one of the subcharacteristics of
+a natural human conversation.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+(NB: Blog post coming soon!)
+
+### Context Representation in User Modeling
+
+Context is a broad term, often referring to information of the circumstances in
+which an event, attribute, or action can be fully understood. Within the User
+Modeling, Adaptive Systems, and Personalization (UMAP) research discipline,
+context can be seen as the additional information that an agent (i.e. computer)
+learns about the user (including their environment, history, actions, tone,
+location, etc.) that provide information relevant to performing or completing a
+task.
+
+Incorrectly represented contextual information can result in an agent
+underperforming or malperforming on a given task, and learning information about
+a user that is irrelevant, temporary, or just wrong. Therefore, not only is the
+ability to capture context information crucial to intelligent personalized
+systems, rather how that captured context is represented within the model and
+changes the agent behaviour is an interesting concept to focus on and capture.
+
+Alongside some of my colleagues at the ADAPT Centre (Jovan Jeromela, Dipto
+Barman, Hassan Zaal, and Awais Akbar), with the guidance of Prof. Owen Conlan
+and Prof. Judy Kay, have submitted a workshop proposal to [UMAP 2023](https://www.um.org/umap2023/),
+so fingers crossed!
+
+(NB: Blog post coming soon!)
+
+## Past Projects
+
+In the past, I was involved with the following projects with the wonderful
+collaborators and advisors mentioned in parantheses. I am very grateful to their
+contributions in my academic interests.
+
+- **Event Analysis in Hindi and Kannada** (Jaipal Singh Goud, Pranav Goel, Suhan
+Prabhu, Priyank Modi, Ujjwal Narayan, Dr. Manish Shrivastava)
+- **Computational Algebraic Representation of Hindi Syntax**  (Dr. Manish
+Shrivastava)
+- **Non-Euclidian Spaces for Word Representation** (Siddharth Bhat, Dr. Manish
+Shrivastava)
+- **Sentence Similarity for Sentences with Emojis** (Prof. Isabelle Augenstein,
+Nikhil Pinnaparaju)
+- **Vagueness in Instructional Texts** (Dr. Michael Roth)

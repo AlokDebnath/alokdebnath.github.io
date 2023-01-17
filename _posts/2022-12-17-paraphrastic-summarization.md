@@ -1,6 +1,6 @@
 ---
-title: A New Way to Summarize
 layout: article
+title: A New Way to Summarize
 tags: Research Ideas
 ---
 _Thank you to Dr. Manish Shrivastava (aka manshri) for this idea. I have

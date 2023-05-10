@@ -118,6 +118,29 @@ was meant to evoke the emotion the creator intended.
 
 To the part of my mind that tries to compare this to idiolects, I claim that an
 idiolect is, by definition, personal. Is the study of installation art meant to
-be studied as an idiolect is?
+be studied as an idiolect?
 
-I do not know.
+## An Edit, A Conclusion, and Some Afterthought
+
+After showing this piece of writing to a few thinkers in the space of art and
+art history as well as just gather general opinions on it from a larger audience
+of modern, contemporary, and ``traditional'' art, I have come to learn the
+following.
+
+What art is meant to do is evoke emotion, and so installation
+art has a mechanism of doing so that remains fundamentally consistent within
+discourse of that field. However, to extrapolate its grammar is to study the 
+use of space as a structuralist, for a mechanism of expression that is inherently
+post-structuralist. The examination of this dichotomy reveals that the study
+of grammar as a way to study evocation assumes a tacit connection between
+the two which has not been defined by the art (or the schools of thought it
+represents). The questions "how do I know what to look at when I see this?"
+and "how should this make me feel?" are inherently disjointed, as is one of
+the missions of this art.
+
+Grammarians enjoy touting "form is function" and to that, I both agree and
+politely ask that the function of art be defined in a manner where form
+plays a role. Form does not evoke emotion, form is just a mechanism to
+convey evocation of emotion and intensity. Perhaps the form that installation
+art takes requires a deeper understanding of the subjective function
+each piece occupies.

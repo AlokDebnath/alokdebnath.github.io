@@ -30,9 +30,12 @@ key: page-about
 
 ## Introduction and Bio
 
+Heya! I am Alok Debnath. Nice to meet you.
+
 I am a PhD researcher at the School of Computer Science at Trinity College
-Dublin, affiliated with the ADAPT Research Centre. My guide is [Prof. Owen
-Conlan](https://www.scss.tcd.ie/Owen.Conlan/).
+Dublin, affiliated with the ADAPT Research Centre. My supervisors are 
+[Prof. Owen Conlan](https://www.scss.tcd.ie/Owen.Conlan/) and 
+[Prof. Yvette Graham](https://www.scss.tcd.ie/~ygraham/).
 
 I work on the intersection of natural language processing, computational
 empathy, human computer interaction, and machine learning. My current research
@@ -45,14 +48,17 @@ and ethically consistent digital society. A society where we can trust the
 intelligence we create to study abstractions such as "the mind" and
 "consciousness" in a way that we can not yet access.
 
+You can find my [CV here](assets/pdfs/Debnath_CV.pdf) and I would love to have
+a conversation with you if you are interested in anything that I am working on.
+
 ## Current Projects
 
 I am currenly involved in the following projects:
 
-- Empathy in Dialogue Systems
-- Context Representation in User Modeling
+- Evaluating Empathetic Engagement in Conversational Agents (NLP, HCI, Affective Computing, Cognitive Science)
+- Context Representation in User Modeling (User Modeling, Personalization, Adaptive Computing)
 
-### Empathy in Dialogue Systems
+### Evaluating Empathetic Engagement in Conversational Agents
 
 Empathy is a complex idea in cognitive and behavioural psychology, which has
 been notoriously hard to define for humans. However, if we assume that emotion
@@ -76,8 +82,6 @@ sociopsychological phenomena as it represents itself in interactions, and
 second, because it provides insights into one of the subcharacteristics of
 a natural human conversation.
 
-(NB: Blog post coming soon!)
-
 ### Context Representation in User Modeling
 
 Context is a broad term, often referring to information of the circumstances in
@@ -97,10 +101,9 @@ changes the agent behaviour is an interesting concept to focus on and capture.
 
 Alongside some of my colleagues at the ADAPT Centre (Jovan Jeromela, Dipto
 Barman, Hassan Zaal, and Awais Akbar), with the guidance of Prof. Owen Conlan
-and Prof. Judy Kay, have submitted a workshop proposal to [UMAP 2023](https://www.um.org/umap2023/),
-so fingers crossed!
+and Prof. Judy Kay, I am co-organizing this workshop!
 
-(NB: Blog post coming soon!)
+Please check out [CRUM 2023](https://crum-workshop.github.io)! 
 
 ## Past Projects
 

@@ -1,5 +1,5 @@
 ---
-title: Emapthy in HCI (CHI 2023 writeup)
+title: Empathy in HCI (CHI 2023 writeup)
 layout: article
 tags: Research
 ---

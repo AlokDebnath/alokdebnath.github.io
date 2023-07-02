@@ -48,8 +48,18 @@ and ethically consistent digital society. A society where we can trust the
 intelligence we create to study abstractions such as "the mind" and
 "consciousness" in a way that we can not yet access.
 
-You can find my [CV here](assets/pdfs/Debnath_CV.pdf) and I would love to have
+You can find my CV [here](assets/pdfs/Debnath_CV.pdf) and I would love to have
 a conversation with you if you are interested in anything that I am working on.
+Through my projects, I have experience with:
+
+- **language resources**: designing annotation guidelines, data scraping 
+and processing, enhancing corpora, corpus quality evaluation
+- **computational semantics**: analysis of events, states, emotions, 
+associations, as well as lexical and sentence-level semantics, including 
+representation of latent features
+- **deep learning for NLP**: LLMs for a host of detection, tagging,
+classification, and regression tasks, as well as evaluation.
+
 
 ## Current Projects
 

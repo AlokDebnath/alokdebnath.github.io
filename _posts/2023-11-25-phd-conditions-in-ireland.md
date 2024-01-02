@@ -8,25 +8,25 @@ I want to start by saying I love doing my PhD in Dublin, in Trinity, and the ADA
 
 <!--more-->
 
-# The structure of a PhD in Ireland
+## The structure of a PhD in Ireland
 
 PhDs in Ireland are four-year degrees where the recipient is classified as a "Student" in receipt of full-time instruction. As a part of our doctoral studies, we have to complete 10 ECTS worth of courses in graduate teaching, Research Methods, and Research Ethics. Some other PhDs do courses relevant to their doctoral thesis topic or field. As a part of my PhD, I am also expected to perform teaching duties in labs, tutorials, and other accessory academic structures, known as demonstrating. I can, if I so choose, upgrade to being a teaching assistant which has more managerial, course-relevant and integral tasks as a teaching assistant. These jobs are all paid.
 
 The structure of studentship varies from student to student. I study at the School of Computer Science, Trinity College Dublin, but am "a part of" and paid by the ADAPT Centre for my research. I was admitted into the School directly by my advisor, so I did not join for a specific project. I wrote my problem statement in the field of "Proactive Personal Digital Assistants" under the umbrella of "Human Centred AI". 
 
-# My experience with Time
+## My experience with Time
 
 From personal experience, my guide is a huge advocate of work-life balance, but on average, I work between eight to twelve hours on an average day on my research (which includes programming, paper writing, workshop organization, general administrative tasks like meetings, collaborations, guiding master's students, etc.). Other than this, I demonstrate weekly labs, 4 hours a week. Time apart from this has been spent mainly on recreational activities, things like Dungeons and Dragons, poetry, occasionally going to concerts and museums, on walks, hikes, and cycling, as well as some YouTube. 
 
 However, I have come to find that research is a way of life. Anecdotally, I find myself thinking, planning, imagining, hypothesizing, wondering, and more thinking about my problem statement and the way it's everywhere. I work with empathy in human-computer conversation, so this might be just my thing, but I do keep annotating overheard conversations in my mind, breaking down the emotional capacities and pragmatics of flouting speech maxims, and analyzing the choice of syntactic structure in emotional expression. Even now, writing this sentence, I imagine that a longer sentence reveals a high-arousal emotion, like frustration, excitement, or anxiety. If I am not fully engrossed in an activity, I am thinking about language and emotion. Again, anecdotally, my friends are the same way with the thing that catches their attention. Some with prejudice in language models, some with gaze and paralinguistics. 
 
-# My experience with Money
+## My experience with Money
 
 I will not mention numbers here, mostly because I feel a little uncomfortable talking about exact values. They are, however, fairly easy to find. I want to highlight, more, the perception of the stipend we get relative to the structure of a PhD that I have described above. Money is tight. There are no real two ways about it, if you do not have personal savings, a PhD is hand-to-mouth at best. At least in Dublin. As some may know, Dublin has one of the highest costs of living. By percentage, on average, rent is 60-70% of the monthly salary (as of November 2023). It is appalling, and a bit of an affront to an otherwise welcoming culture of warm and receptive people.
 
 It is also one of the things that caught me blindsided when I started my PhD. It is incredible how money melts, and while I admit there is a part of the blame on my spending habits, and it is possible to make do with worse, the annual salary of a PhD researcher in Dublin is, at best, 40% of the minimum wage that has been set by the government for full-time work. Pints of beer, which is a common social culture here, cost more than an hour's wage for a PhD. And while it is uncouth and unbecoming for seekers of knowledge to speak of money in some cultures, it is also uncouth to starve one's disciples knowing full well that the knowledge they seek extends the scientific and economic foundations of every layer, the school, the university, and the country.
 
-# My experience with Democracy
+## My experience with Democracy
 
 Sometime last year, there was an advertisement by the Irish Government for PhDs who were going to be employed for almost 1.5 times the stipend that we were receiving. Some of the fields of research, mine included, were among the "select few" topics which were considered special enough to warrant this hike in stipend and favoured status. While nothing in our terms changed. This was an outrage, from the fires of which formed the first union of doctoral researchers and postgraduate employees known as the PhDs Collective Action Union.
 
@@ -34,7 +34,7 @@ I am not a hugely political person. Before my time in Ireland, I had not partici
 
 As of November 2023, two actions have been taken by the Irish Government. The first was a review of PhD conditions around the housing and financial crisis. The other was a combined one-time and a promise of increased stipends to only 30% less than the government-set minimum wage, rather than the 40% less it was before. At this point, the only reason for my involvement is that Ireland is a lovely place and I think more Irish and other people should be able to take advantage of the doctoral studies possible in the thriving research landscape that is possible here. But that is impossible with the lack of respect PhDs are treated with. Now, I only protest to make sure that the future generation of PhDs does not suffer as I and my peers did.
 
-# My Experience with Society
+## My Experience with Society
 
 Dublin is incredibly multicultural, diverse, and generally very mixed. Nice. It still struggles with the general wave of anti-immigrant sentiment, the meat of which a large part of the world was going through when I was coming in to start my PhD. Not nice. Generally, the Irish are very friendly, kind, and welcoming people. They are warm, and their small talk is genuine. They take the time out of their day for the people around them. Being here has made me smile more, be more empathetic, and open up more without the risk of being belittled.
 

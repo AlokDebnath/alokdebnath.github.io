@@ -62,8 +62,8 @@ repository_tree: main
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
-  home    : /about # home layout url, "/" (default)
+  root    : /about.html # title link url, "/" (default)
+  home    : /about.html  # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
